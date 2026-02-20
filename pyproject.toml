@@ -44,7 +44,10 @@ dependencies = [
     "pillow",
     "reportlab",
     "openpyxl",
-    "xlrd"
+    "xlrd",
+    "matplotlib",
+    "seaborn",
+    "xgboost"
 ]
 
 [build-system]

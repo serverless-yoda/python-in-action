@@ -58,3 +58,6 @@ next-env.d.ts
 
 # exclude csv
 app/**/*.csv
+
+# exlude poc folder
+poc/
