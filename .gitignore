@@ -58,6 +58,8 @@ next-env.d.ts
 
 # exclude csv
 app/**/*.csv
+app/sparkml/*checkpoints
 
-# exlude poc folder
+# exlude other folder
 poc/
+.vscode/
