@@ -63,3 +63,4 @@ app/sparkml/*checkpoints
 # exlude other folder
 poc/
 .vscode/
+app/bar_racer
