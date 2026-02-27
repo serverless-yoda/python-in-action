@@ -64,3 +64,5 @@ app/sparkml/*checkpoints
 poc/
 .vscode/
 app/bar_racer
+app/sparkml/samples
+app/sparkml/assignments
