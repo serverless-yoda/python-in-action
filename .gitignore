@@ -63,6 +63,7 @@ app/sparkml/*checkpoints
 # exlude other folder
 poc/
 .vscode/
+app/databricks/playground
 app/bar_racer
 app/sparkml/samples
 app/sparkml/assignments
