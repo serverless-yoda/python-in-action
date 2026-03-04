@@ -64,6 +64,7 @@ app/sparkml/*checkpoints
 poc/
 .vscode/
 app/databricks/playground
+app/sparkml/mlruns
 app/bar_racer
 app/sparkml/samples
 app/sparkml/assignments
