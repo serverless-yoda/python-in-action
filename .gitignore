@@ -61,10 +61,11 @@ app/**/*.csv
 app/sparkml/*checkpoints
 
 # exlude other folder
+DEFundamental/
 poc/
 .vscode/
 app/mlflow/mlruns
-app/mlflow/decisionclassificationtree/reservation
+#app/mlflow/decisionclassificationtree/reservation
 app/databricks/playground
 app/sparkml/mlruns
 app/bar_racer
