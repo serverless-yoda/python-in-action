@@ -63,6 +63,8 @@ app/sparkml/*checkpoints
 # exlude other folder
 poc/
 .vscode/
+app/mlflow/mlruns
+app/mlflow/decisionclassificationtree/reservation
 app/databricks/playground
 app/sparkml/mlruns
 app/bar_racer
