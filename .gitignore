@@ -72,3 +72,5 @@ app/bar_racer
 app/sparkml/samples
 app/sparkml/assignments
 app/sparkml/ml_template.ipynb
+app/pdf_extraction/de_interview_prep.md
+app/pdf_extraction/*.pdf
