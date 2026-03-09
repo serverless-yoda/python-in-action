@@ -67,6 +67,7 @@ poc/
 app/mlflow/mlruns
 #app/mlflow/decisionclassificationtree/reservation
 app/databricks/playground
+app/scripts_fixes/
 app/sparkml/mlruns
 app/bar_racer
 app/sparkml/samples
