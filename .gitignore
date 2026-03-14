@@ -62,6 +62,7 @@ app/sparkml/*checkpoints
 
 # exlude other folder
 DEFundamental/
+cheat_sheet/
 poc/
 .vscode/
 app/mlflow/mlruns
